@@ -1,6 +1,8 @@
 {
   "name": "travlr",
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "Travlr Getaways",
+  "author": "SNHU Neelima <neelima.patnaik@snhu.edu>",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
@@ -12,6 +14,7 @@
     "hbs": "~4.0.4",
     "http-errors": "~1.6.3",
     "morgan": "~1.9.1",
-    "nodemon": "^2.0.19"
+    "nodemon": "^2.0.19",
+    "package.json": "^2.0.1"
   }
 }
